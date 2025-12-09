@@ -1,0 +1,7 @@
+# Altium generated files
+*.SchDoc
+*.PcbDoc
+*.PrjPcbStructure
+History\
+__Previews\
+*.LOG
