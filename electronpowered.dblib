@@ -56,6 +56,9 @@ TableName=IC_RF$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=115|Description0=1080|Library Path0=187|Library Ref0=121|Footprint Path0=131|Footprint Ref0=111|Manufacturer0=164|Package0=71|Power0=55|UID0=115|PnP_Name0=115|F120=41|Type0=70|F130=41|F140=41|F150=41
 [Table7]
 SchemaName=
 TableName=Inductors_Power$
